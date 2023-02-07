@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-07T10:42:10.864Z</updated>
+  <updated>2023-02-07T12:24:50.188Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo+github搭建个人博客</title>
+    <link href="http://example.com/2023/02/07/Hexo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://example.com/2023/02/07/Hexo+github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2023-02-07T12:14:44.567Z</published>
+    <updated>2023-02-07T12:24:50.188Z</updated>
+    
+    <content type="html"><![CDATA[<p>在本人尝试成功后，在此写下博客以作留念。<br>引用：<br><span class="exturl" data-url="aHR0cHM6Ly96aHVhbmxhbi56aGlodS5jb20vcC82MDU3ODQ2NA==">https://zhuanlan.zhihu.com/p/60578464</span><br><span class="exturl" data-url="aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMW1VNHkxajcybi8/c3BtX2lkX2Zyb209MzMzLjMzNy5zZWFyY2gtY2FyZC5hbGwuY2xpY2smdmRfc291cmNlPWRhYmI3YzEzZTBmZDlkNGUyNmRmMWQ3ZTI2NGU2MTYw">https://www.bilibili.com/video/BV1mU4y1j72n/?spm_id_from=333.337.search-card.all.click&amp;vd_source=dabb7c13e0fd9d4e26df1d7e264e6160</span></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s">Writing</span></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=">Server</span></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s">Generating</span></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s">Deployment</span></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;在本人尝试成功后，在此写下博客以作留念。&lt;br&gt;引用：&lt;br&gt;&lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly96aHVhbmxhbi56aGlodS5jb20vcC82MDU3ODQ2NA==&quot;&gt;https://zhuanlan.zhih</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
